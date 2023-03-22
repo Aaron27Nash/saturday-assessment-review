@@ -1,5 +1,15 @@
-/* add code here to make your image 300px tall, have a border-radius of 25px, and a 1px black solid border.*/
-
-/* add code here to change the color and font family of your band's name/title */
+img {
+    height:300px;
+    border-radius: 25px;
+    border: 1px solid black;
+}
+h1 {
+    color: rgb(185, 11, 11);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li {
+    color: rgba(7, 153, 51, 0.521);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 /* Bonus: change the color of your list elements */
